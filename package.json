@@ -1,0 +1,24 @@
+{
+  "name": "angelo-note-taker",
+  "version": "1.0.0",
+  "description": "Module 11 Challenge for UT Full-Stack Bootcamp",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/whatnameshouldiuse/angelo-note-taker.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/whatnameshouldiuse/angelo-note-taker/issues"
+  },
+  "homepage": "https://github.com/whatnameshouldiuse/angelo-note-taker#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "uuid": "^9.0.1"
+  }
+}
