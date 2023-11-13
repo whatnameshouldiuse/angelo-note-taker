@@ -2,9 +2,11 @@
 Module 11 Challenge for UT Full-Stack Bootcamp
 
 ## Resources
-(Starter Code)[https://github.com/coding-boot-camp/miniature-eureka]
-(express.js Documentation)[https://expressjs.com/en/4x/api.html]
-(uuid Documentation)[https://github.com/uuidjs/uuid]
+[Starter Code](https://github.com/coding-boot-camp/miniature-eureka)
+
+[express.js Documentation](https://expressjs.com/en/4x/api.html)
+
+[uuid Documentation](https://github.com/uuidjs/uuid)
 
 GIVEN a note-taking application
 
