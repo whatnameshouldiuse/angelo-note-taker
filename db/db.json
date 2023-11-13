@@ -1,7 +1,12 @@
 [
     {
-        "id":"00",
-        "title":"Test Title",
-        "text":"Test text"
+        "id": "86c95cf3-4bbe-4204-8317-7ffeb395dab6",
+        "title": "NewTitle",
+        "text": "Thing\n"
+    },
+    {
+        "id": "f4b7c304-cc98-4caa-9987-966adba6737c",
+        "title": "Another test",
+        "text": "Just one more time"
     }
 ]

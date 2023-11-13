@@ -39,13 +39,14 @@ const readAndAppend = (content, file) => {
  * @param {string} file The path from which a specific content should be deleted from
  */
 const deleteByID = (id, file) => {
+  console.log(id);
     fs.readFile(file, 'utf8', (err, data) => {
         if (err) {
             console.error(err);
         } else {
             const parsedData = JSON.parse(data);
             const deleteIndex = parsedData.findIndex((data) => {
-                data.id === id;
+                return data.id === id;
             })
             if (deleteIndex != -1) {
                 parsedData.splice(deleteIndex, 1);
